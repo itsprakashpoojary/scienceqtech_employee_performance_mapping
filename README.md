@@ -433,5 +433,5 @@ This project gave practical experience in creating and managing a relational dat
 
 ## Author
 
-**Your Name**
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://www.linkedin.com/in/yourprofile)
+**Prakash**
+[GitHub](https://github.com/itsprakashpoojary) | [LinkedIn](https://www.linkedin.com/in/itsprakashpoojary)
